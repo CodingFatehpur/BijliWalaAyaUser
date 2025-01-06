@@ -24,7 +24,5 @@ public class NumberLoginActivity extends AppCompatActivity {
         });
 
         //user dujeet kumar
-
-
     }
 }
