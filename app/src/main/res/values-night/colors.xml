@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors for dark mode -->
+    <color name="colorPrimary">#0a4a85</color>       <!-- Darker shade of Main Blue for night -->
+    <color name="colorPrimaryDark">#073b69</color>   <!-- Even darker shade of Blue -->
+    <color name="colorAccent">#b0b0b0</color>        <!-- Soft gray for night accents -->
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#FFB300</color>    <!-- Softer yellow for secondary elements -->
+    <color name="colorSecondaryDark">#FF8F00</color> <!-- Darker yellow for night -->
+
+    <!-- Background and text colors -->
+    <color name="colorBackground">#121212</color>    <!-- Dark gray background for night mode -->
+    <color name="colorTextPrimary">#FFFFFF</color>   <!-- White for main text -->
+    <color name="colorTextSecondary">#BDBDBD</color> <!-- Soft gray for secondary text -->
+    <color name="iconcolor">#FFFFFF</color>          <!-- White for icons -->
+
+    <!-- Error color -->
+    <color name="colorError">#CF6679</color>         <!-- Softer red for night mode errors -->
+
+</resources>
